@@ -26,14 +26,6 @@ This repository contains my solutions to LeetCode problems, solved while practic
 
 To consistently practice LeetCode and improve my problem-solving and DSA skills.
 
-## 📊 Progress
-
-| Difficulty | Solved |
-|-----------|--------|
-| 🟢 Easy | 1 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
-| **Total** | **1** |
 
 ---
 
