@@ -39,6 +39,7 @@ To consistently practice LeetCode and improve my problem-solving and DSA skills.
 | [0009-palindrome-number](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0258-add-digits](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +52,12 @@ To consistently practice LeetCode and improve my problem-solving and DSA skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
