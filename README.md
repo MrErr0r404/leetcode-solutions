@@ -38,6 +38,7 @@ To consistently practice LeetCode and improve my problem-solving and DSA skills.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,8 @@ To consistently practice LeetCode and improve my problem-solving and DSA skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/MrErr0r404/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
